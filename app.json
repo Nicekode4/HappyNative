@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HappyNative",
+    "slug": "HappyNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HappyNative"
+}
